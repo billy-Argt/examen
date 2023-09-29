@@ -29,8 +29,6 @@ const Grafica = () => {
       ],
     };
 
-    // Aquí puedes renderizar la gráfica utilizando la librería Chart.js
-    // Puedes usar el componente Line de react-chartjs-2 para esto
   };
 
   return (
